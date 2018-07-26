@@ -1,0 +1,43 @@
+.content {
+	max-width: 1000px;
+	margin: auto;
+	border: 1px solid black;
+	background-color: white;
+	box-shadow: 5px 10px;
+	padding: 10px;
+}
+
+.sectionHeader {
+	padding-top: 5px;
+}
+
+.jobTitle {
+	text-indent: 50px;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+li {
+	padding-left: 7px;
+}
+
+header {
+	text-align: center;
+	padding: 30px;
+}
+
+hr {
+    background-color: black;
+    border: 0 none;
+    color: black;
+    height: 1px;
+}
+
+article {
+	overflow: auto;
+}
+
+body {
+	background-color:  grey;
+}
